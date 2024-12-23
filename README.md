@@ -85,6 +85,8 @@ VERCEL PROCESS:
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
-- **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029Va09E3UKAwEfdWo6uy3F) for Daily Updates.**
+- **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaO9E3UKAwEfdWo6uy3F) for Daily Updates.**
 - **Check out my [GITHUB PROFILE](https://github.com/lenodewere) for more Projects.**
 </details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
