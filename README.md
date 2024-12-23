@@ -22,7 +22,7 @@
   ```
 - *I compressed the video so ain't aware of it's quality*
 
-https://github.com/mouricedevs/telegram-bot/assets/166598671/8bf0cc38-2462-4dac-909c-13770a328900
+(https://github.com/user-attachments/assets/f8313758-33b2-4bae-82e7-fce7f7c9a0e7)
 
 </details>
 
@@ -43,7 +43,7 @@ ___
 - *I compressed the video so ain't aware of it's quality*
 
 
-https://github.com/user-attachments/assets/eaf6c654-4d70-4b5c-aadc-51cf0c51632a
+https://github.com/user-attachments/assets/f8313758-33b2-4bae-82e7-fce7f7c9a0e7
 
 
 </details>
@@ -90,3 +90,4 @@ VERCEL PROCESS:
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
